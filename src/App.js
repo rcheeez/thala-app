@@ -40,7 +40,7 @@ function App() {
       {output && <h1 className='output'>{output}</h1>}
 
       <ReactPlayer
-        url="http://localhost:3000/thala.mp4" 
+        url="https://thala-app.vercel.app/thala.mp4" 
         playing={isPlaying}
         controls={false}
         width="100%"
