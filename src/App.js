@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Thala Project</h1>
+      <h1>Thala App</h1>
       <input
         type="text"
         value={inputText}
